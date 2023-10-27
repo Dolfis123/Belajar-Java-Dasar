@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffbbffc4-6600-456c-9af2-488ecc0cd91a" name="Changes" comment="Two Commit" />
+    <list default="true" id="ffbbffc4-6600-456c-9af2-488ecc0cd91a" name="Changes" comment="Two Commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/PackageOne/ClassTwo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
