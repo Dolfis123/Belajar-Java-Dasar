@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffbbffc4-6600-456c-9af2-488ecc0cd91a" name="Changes" comment="Membuat output &quot;Hello World&quot;">
-      <change beforePath="$PROJECT_DIR$/src/main/java/PackageOne/ClassTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PackageOne/ClassTwo.java" afterDir="false" />
+    <list default="true" id="ffbbffc4-6600-456c-9af2-488ecc0cd91a" name="Changes" comment="Import Scanner ke Class Two">
+      <change afterPath="$PROJECT_DIR$/src/main/java/BelajarJavaDasar/StrukturProgramJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +34,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "onboarding.tips.debug.path": "D:/Belajar Java AOP Tekom/JavaDasar/Belajar-Java-Dasar/src/main/java/org/example/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Belajar Java AOP Tekom/JavaDasar/Belajar-Java-Dasar/src/main/java/org/example/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -83,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698366725248</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Import Scanner ke Class Two">
+      <created>1698366875284</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698366875284</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,7 +109,9 @@
     <MESSAGE value="Two Commit" />
     <MESSAGE value="Menambah Clss Two di packageOne" />
     <MESSAGE value="Membuat output &quot;Hello World&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Membuat output &quot;Hello World&quot;" />
+    <MESSAGE value="Import Scanner ke ClassTwo" />
+    <MESSAGE value="Import Scanner ke Class Two" />
+    <option name="LAST_COMMIT_MESSAGE" value="Import Scanner ke Class Two" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
