@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffbbffc4-6600-456c-9af2-488ecc0cd91a" name="Changes" comment="Create an class struktur program java">
+    <list default="true" id="ffbbffc4-6600-456c-9af2-488ecc0cd91a" name="Changes" comment="Create Guess Age Program in Class StrukturProgramJava">
+      <change afterPath="$PROJECT_DIR$/src/main/java/BelajarJavaDasar/ClassString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TipeData/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Variabel/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/BelajarJavaDasar/StrukturProgramJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BelajarJavaDasar/StrukturProgramJava.java" afterDir="false" />
     </list>
@@ -41,7 +44,33 @@
     "onboarding.tips.debug.path": "D:/Belajar Java AOP Tekom/JavaDasar/Belajar-Java-Dasar/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TipeData.Main">
+    <configuration name="ClassString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BelajarJavaDasar.ClassString" />
+      <module name="Belajar-Java-Dasar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BelajarJavaDasar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Variabel.Main" />
+      <module name="Belajar-Java-Dasar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Variabel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StrukturProgramJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BelajarJavaDasar.StrukturProgramJava" />
       <module name="Belajar-Java-Dasar" />
@@ -55,8 +84,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TipeData.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TipeData.Main" />
+      <module name="Belajar-Java-Dasar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TipeData.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TipeData.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ClassString" />
         <item itemvalue="Application.StrukturProgramJava" />
       </list>
     </recent_temporary>
@@ -119,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698844293258</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Create Guess Age Program in Class StrukturProgramJava">
+      <created>1698848887542</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698848887542</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,7 +192,8 @@
     <MESSAGE value="Import Scanner ke ClassTwo" />
     <MESSAGE value="Import Scanner ke Class Two" />
     <MESSAGE value="Create an class struktur program java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create an class struktur program java" />
+    <MESSAGE value="Create Guess Age Program in Class StrukturProgramJava" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Guess Age Program in Class StrukturProgramJava" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -152,5 +205,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Belajar_Java_Dasar$ClassString.ic" NAME="ClassString Coverage Results" MODIFIED="1698850925096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>BelajarJavaDasar.*</FILTER>
+    </SUITE>
   </component>
 </project>

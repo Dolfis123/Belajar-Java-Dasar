@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class StrukturProgramJava { //Body Class Start
     //    Ini adalah main funtion, program yang pertama kali di jalankan
     public static void main(String[] args){  //Body Main Funtion Start
+
         Scanner scan = new Scanner(System.in);
         String nama;
         int tahunLahir;
@@ -20,6 +21,7 @@ public class StrukturProgramJava { //Body Class Start
         tahunLahir = scan.nextInt();
         umur = tahunLahir - tahunSekarang;
         System.out.println("Berarti "+nama+" umur kamu adalah "+umur);
+
 
     }//Body Mian Funtion End
 }//Body Class End
